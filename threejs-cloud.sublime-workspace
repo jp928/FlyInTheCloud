@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"nor",
+				"normal"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"posit",
+				"positive"
+			],
+			[
+				"sate",
+				"stateParams"
+			],
+			[
+				"resize",
+				"resizeMap"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"_",
+				"_db"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"ionic",
+				"ionic-material"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"a",
+				"awesomeThings"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"hi",
+				"hightlightColor"
+			],
+			[
+				"clear",
+				"clearFabs"
+			],
+			[
+				"visitor",
+				"visitorList"
+			],
+			[
+				"i",
+				"ion-item"
+			],
+			[
+				"disp",
+				"displayEffect"
+			],
+			[
+				"tu",
+				"timeout	setTimeout function"
+			],
+			[
+				"show_",
+				"show_design_view"
+			],
+			[
+				"_desig",
+				"_design_view"
+			],
+			[
+				"_de",
+				"_design_view"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"info",
+				"infocheckin_db"
+			],
+			[
+				"php",
+				"phpinfo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/piaojingtai/Sites/DiscountCrazy/config.xml",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/login/login.html",
+		"/Users/piaojingtai/Sites/lawpath/gulpfile.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/readme.md",
+		"/Users/piaojingtai/Sites/DiscountCrazy/customized_libraries/openfb.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/input-toggle.style.scss",
+		"/Users/piaojingtai/Sites/lawpath/src/utilities/fetch.js",
+		"/Users/piaojingtai/Sites/lawpath/src/components/form.jsx",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/lib/openfb/openfb.js",
+		"/Users/piaojingtai/Downloads/signup.png",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/seller-register.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/ionic.app.scss",
+		"/Users/piaojingtai/Sites/lawpath/src/store/index.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/discountcrazy.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/index.app.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/tabs.store/store.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.directives/cordova-google-map.directive.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/seller-login/seller-login.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/webpack.config.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/package.json",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/tabs.promotion/promotion.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/side-menu.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/platforms/android/src/com/ionicframework/ondeal/MainActivity.java",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/side-menu.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.services/remote-data.service.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/promotion-list.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/store-list.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/image-modal.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/tabs.store/store.controller.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/seller-address/seller-address.controller.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/bootstrap.app.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.services/settings.service.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/seller.edit-store/seller-edit-store.controller.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/filter-modal.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/seller.store/seller-store.controller.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/config.router.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/tabs.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/theme.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/tabs.setting/setting.controller.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/tabs.store-view/store-view.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/tabs.promotion/promotion.controller.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/seller-address/seller-address.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.directives/ondeal-photos.directive.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.directives/header-shrink.directive.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/config.app.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/redeem.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/tabs/tabs.controller.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/sidemenu/side-menu.controller.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/bower.json",
+		"/Users/piaojingtai/Sites/DiscountCrazy/gulpfile.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/tabs/tabs.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/index.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/seller.store/seller-add-store.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/seller.edit-store/seller-edit-store.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.services/db.service.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.constants/index.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/seller.promotion/seller-add-promotion.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.directives/ondeal-address.directive.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/tabs.home/home.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.directives/swipe-list.directive.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.filters/first-name-and-last-name.filter.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/test/controllers/addVisitorControllerTest.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/test/coverage/Chrome 46.0.2471 (Windows 7 0.0.0)/index.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.services/fbprofile.service.js",
+		"/Users/piaojingtai/Sites/ISAReg/ISAReg.sublime-project",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/lib/angular-translate/angular-translate.js",
+		"/Users/piaojingtai/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/piaojingtai/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/piaojingtai/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.directives/google-map.directive.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/tabs.setting/setting.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.services/promotions.service.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.services/stores.service.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.services/user-location.service.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/login/login.controller.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules/index.js",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/index - Copy.html",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/slider.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/logo.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/scss/media.style.scss",
+		"/Users/piaojingtai/Sites/DiscountCrazy/www/lib/ionic/js/ionic.js",
+		"/Library/WebServer/Documents/index.php",
+		"/Library/WebServer/Documents/untitled",
+		"/Users/piaojingtai/Sites/DashboardApp/app/index.app.js",
+		"/Users/piaojingtai/Sites/DashboardApp/app/services/chartData.service.js",
+		"/Users/piaojingtai/Sites/DashboardApp/webpack.config.js",
+		"/Users/piaojingtai/Sites/DashboardApp/app/directives/barChart.directive.js",
+		"/Users/piaojingtai/Sites/DashboardApp/README.md",
+		"/Users/piaojingtai/Sites/material-start/README.md",
+		"/Users/piaojingtai/Sites/DashboardApp/app/bootstrap.js",
+		"/Users/piaojingtai/Sites/DashboardApp/app/index.router.js",
+		"/Users/piaojingtai/Sites/DashboardApp/package.json",
+		"/Users/piaojingtai/Sites/DashboardApp/DashboardApp.sublime-project",
+		"/Users/piaojingtai/Sites/DashboardApp/app/index.html",
+		"/Users/piaojingtai/Sites/DashboardApp/bower.json",
+		"/Users/piaojingtai/Sites/DashboardApp/gulpfile.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/package.json",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.directives/hide-header-post-scroll.directive.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/bower.json",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.modules/visitor-list/visitorlist.html",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/css/ionic.app.css",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/css/style.css",
+		"/Users/piaojingtai/Sites/DiscountRule/Seminar.php",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/index.html",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/gulpfile.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.modules/add-visitor/add_visitor.html",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/lib/ion-md-input/js/ion-md-input.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app-main.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/config.xml",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/lib/ion-md-input/demo/www/css/ion-md-input.css",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/lib/ion-md-input/css/ion-md-input.css",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.modules/add-visitor/add-visitor.controller.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/router.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/ios9-patch.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.services/visitors.service.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.services/sessions.service.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.services/regions.service.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.modules/visitor-list/visitorlist.controller.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.modules/menu/app.controller.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.modules/menu/menu.html",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.services/db.service.js",
+		"/Users/piaojingtai/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.modules/setting/setting.controller.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.constants/index.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.modules/summary/summary.controller.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/iso9-patch.js",
+		"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.modules/session-list/sessionlist.controller.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/piaojingtai/Sites/DiscountCrazy/scss",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/scss",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/scss",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www",
+			"/Users/piaojingtai/Sites/DiscountCrazy/scss",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.services",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.modules",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/lib/angular-translate",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/lib/angular-translate-loader-static-files",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/lib/angular-translate-loader-static-files",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js/app.services",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/js",
+			"/Users/piaojingtai/Sites/DiscountCrazy/www/lib/ionic",
+			"/Users/piaojingtai/Sites/DashboardApp/app",
+			"/Users/piaojingtai/Sites/DashboardApp",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/www/css",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/www/js/app.modules",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/www/js",
+			"/Users/piaojingtai/Sites/InfoCheckInApp",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/www/js",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/www",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/www/js",
+			"/Users/piaojingtai/Sites/FlickrAngularApp",
+			"/Users/piaojingtai/Downloads/Ionic-Material-master/demo/www",
+			"/Users/piaojingtai/Downloads/Ionic-Material-master/demo/www/templates",
+			"/Users/piaojingtai/Downloads/Ionic-Material-master/demo",
+			"/Users/piaojingtai/Downloads/Ionic-Material-master",
+			"/Users/piaojingtai/Downloads/Ionic-Material-master/demo/www/templates",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/platforms/android/CordovaLib/src/org/apache/cordova",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/platforms/android/CordovaLib/src/org",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/platforms/android/CordovaLib/src/org/apache/cordova",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/platforms/android/CordovaLib/src/org",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/platforms/android/CordovaLib/src/org/apache/cordova",
+			"/Users/piaojingtai/Sites/InfoCheckInApp/www/templates",
+			"/Users/piaojingtai/Sites/InfoCheckInApp",
+			"/Users/piaojingtai/Downloads/Ionic-Material-master",
+			"/Users/piaojingtai/Sites/InfoCheckInApp",
+			"/Users/piaojingtai/Sites/InfoCheckIn",
+			"/Users/piaojingtai/Sites/NovaIntegration",
+			"/Users/piaojingtai/Sites/NovaIntegration/php_libs",
+			"/Users/piaojingtai/Sites/NovaIntegration"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"0",
+			"item-toggle",
+			"seller-add-store",
+			".item-stacked-label",
+			".text-toggle",
+			"input-label",
+			"1337",
+			"header",
+			"cors",
+			"34",
+			"34px",
+			"    height: 34px;",
+			"input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], textarea",
+			"bounds.H.H",
+			"alert",
+			"avatar-container",
+			"menu-right",
+			"url",
+			"$login-form-background-image",
+			".login",
+			"dc-side-menu",
+			"action-promotion",
+			"getDirection",
+			"direction",
+			"border-radius",
+			"border-radius: 100%;",
+			"setDiv",
+			"resizeMap",
+			"expandMap",
+			"expand",
+			"image-modal-view",
+			"modal-backdrop",
+			"modal-bg",
+			"modal-backdrop",
+			"list-has-top-filter",
+			"has-tabs-top",
+			"tab",
+			"tabs-color-active-positive",
+			"tab-item",
+			"tabs",
+			"actived",
+			"1em",
+			"image-modal-view",
+			"viewPromotions",
+			"get",
+			"applyLanguage",
+			"language.toLowerCase",
+			"language",
+			"stateParams",
+			"previousStateName",
+			"previousState",
+			"tapAddMarker",
+			"setStoreMarker",
+			"visible",
+			"map",
+			"}   ",
+			"#D91B5B",
+			"positive",
+			"$positivie",
+			"parent",
+			"initStore",
+			"initModal",
+			"initModel",
+			"goLocation",
+			"ionicSideMenuDelegate",
+			"goLocation",
+			"css",
+			"../fonts/ionicons.eot",
+			"<<<",
+			"right",
+			"menu-right",
+			"getLocation",
+			"_leftSideMenu",
+			"$ionicSideMenuDelegate",
+			"resize",
+			"scrollDelegate",
+			"        \n",
+			"scrollDelegate",
+			"scrollTop",
+			"ionicSideMenuDelegate",
+			"delegate",
+			"delegate-handle=\"promotions\"",
+			"CordovaFile",
+			"updateFbProfile",
+			"$q",
+			"updateFbProfile",
+			"webpack",
+			"tiff",
+			"webpack",
+			"_tmpFileInfo",
+			"_removeTmpImg",
+			"_tempImageFiles",
+			"_removeTmpImg",
+			"cleanTmpImg",
+			"delegate",
+			"homeScroll",
+			"delegate-handle",
+			"overflow",
+			"ion-content",
+			"ion-content ",
+			"overflow-scroll",
+			"overflow",
+			"ion-content",
+			"ionCentent",
+			"cordova",
+			"getMore",
+			"get",
+			"new",
+			"translate",
+			"$translateUrlLoader",
+			"$translateStaticFilesLoader",
+			"pascalprecht.translate",
+			"tmhDynamicLocale",
+			"tmhDynamicLocaleProvider",
+			"tmhDynamicLocale",
+			"ynamicLocale",
+			"dynamicLocale",
+			"tmhDynamicLocaleProvider",
+			"40",
+			"height-100",
+			"html",
+			"Enter",
+			"resizeMap",
+			"startNavigate",
+			"resizeMap",
+			"HEAD",
+			"HEAD ====",
+			"head"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 152.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "threejs-cloud.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
